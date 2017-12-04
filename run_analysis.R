@@ -63,4 +63,4 @@ dsGroup$ActivityLabel <- factor( dsGroup$activity,
                                  labels = act$V2 )
 
 #write down the tidy dataset
-write.csv(dsGroup[,3:71],"tidy_dataset.csv",row.names = FALSE)
+write.table(dsGroup[,3:71],"tidy_dataset.txt",row.names = FALSE)
