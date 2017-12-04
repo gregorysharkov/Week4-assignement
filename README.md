@@ -2,7 +2,7 @@
 This projec is created in order to pass Coursera programming assignement
 for Week4 of the course Getting and clearing data
 
-##Instructions
+## Instructions
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. 
 The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers 
 on a series of yes/no questions related to the project. You will be required to submit: 
@@ -32,7 +32,7 @@ You should create one R script called run_analysis.R that does the following.
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-##Notes
+## Notes
 The data is not uploaded into Github because it is too large
 In order to sript to be able to work, it should be located in a folder with the following sub-foldes:
 run_analysis.R				[file]		script that merges and cleares the data
