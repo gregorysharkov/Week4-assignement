@@ -22,4 +22,4 @@ A tidy dataset is created using the aggregate function. Since activity names are
 activity labels are excluded from the aggreate function and added later.
 
 ### Output
-The "tidy" dataset is stored using write.csv function
+The "tidy" dataset is stored using write.table function
